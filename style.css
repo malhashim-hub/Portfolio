@@ -319,6 +319,10 @@ article .icon {
   cursor: default;
 }
 
+#article_php {
+  margin-left: -1.5rem;
+}
+
 /*project section*/
 #project {
   position: relative;
